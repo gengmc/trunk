@@ -1,0 +1,141 @@
+组织机构代码 782398382  统一社会信用代码：9 1 330100 782398382 C
+
+登记管理部门代码（1位）、机构类别代码（1位）、登记管理机关行政区划码（6位）、主体标识码（组织机构代码）（9位）和校验码（1位）
+
+
+中建投VPN
+https://10.68.3.250/  luohaihua  Enfo8836  【49716】
+
+
+//中建投
+
+   附件是中建投的vpn安装软件，可以远程‘10.68.3.124’、‘10.68.3.231’、‘10.68.3.31’这三台服务器，
+
+           vpn账户密码为：enfovpn/enfovpn123。
+
+10.68.3.124 administrator Jictrust@luohaihuaxjgl
+		sa(端口1433)	qwe123@qwe123
+
+10.68.3.231 administrator Jictrust@xxjsb.com
+		sa(端口1455)	Jictrust@xxjsb.com
+
+10.68.3.35  建行前置机（测试环境）
+月月盈估值测试：
+    估值的生产数据库
+FADB16 =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = 10.67.2.16)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = orcl)
+    )
+  )
+10.67.2.16    数据库用户名密码：hsfa/hsfa_0601
+     访问估值系统：
+10.67.2.17  administrator/caiwu123  1007,123456
+华能VPN
+6.vpn地址:    http://vpn.hngtrust.com
+账号：yingf
+密码：FLY@1234
+
+测试机地址：10.213.103.30   远程桌面账号：administrator   远程桌面密码：aaaAAA111 （数据库和密码都在这台服务器上）
+
+9.指令对接测试服务器： 10.17.142.19，远程桌面密码： 123456trewq
+直接远程桌面访问：60.247.32.95；用户名：administrator；密码：12345trewq；
+
+
+指令系统正式机
+10.213.103.41 远程桌面账号：administrator   远程桌面密码：Trust103041
+
+
+
+
+
+//中泰知识库接口
+System.out.println("开始访问："+new Date().toLocaleString());
+client.setConnectionTimeout(10000);
+
+邮箱地址：https://mail.enfo.com.cn/owa
+用户名：gengmc@enfo.com.cn
+密码：Enfo2010@
+
+打印机地址：http://128.8.18.191
+
+事务系统：http://www.enfo.com.cn:9081
+用户名： gengmc
+密码： GMCcui512177+
+413024196707085413
+
+SVN 
+http://svn.enfo.com.cn:8081/enfoSRC/intrust2012/branches
+http://svn.enfo.com.cn:8081/enfoSRC/intrust2012/trunk/intrust
+http://svn.enfo.com.cn:8081/enfoSRC/intrust2012/trunk/intrust2015/
+生证通 http://svn.enfo.com.cn:8081/enfoSRC/others/szt_interface_xmitic/version_zjtxt
+固有
+http://svn.enfo.com.cn:8081/enfoSRC/efifs/trunk
+
+西部
+http://svn.enfo.com.cn:8081/enfoSRC/intrust2012/branches/WTI
+
+用户名6421 密码gengmc
+
+gengmingcui@gmail.com  GMCcui6099
+
+
+无线密码：
+ENFO8   WWW(ENFO)COM_CN
+enfo123098
+zonghebu 87703600
+QS19 1234509876
+
+MAC地址 90-2B-34-B1-EB-48
+6214 8357 1196 7453
+
+
+128.8.18.229  全部虚拟机
+远程桌面：128.8.28.106  administrator   test@intrust888
+
+128.8.18.232 LINHF 654321L
+
+
+信托文档
+\\128.8.28.96
+用户名：js1b
+密码：2013
+
+
+cnblogs  小伙伴_羽毛    gmc512177!
+51testing  haloyep gmc512177
+
+150301020218  12219942
+
+PM> get-help NuGet
+
+Install-Package NUnit -Version 2.6.4 
+Install-Package Selenium.RC 
+Install-Package Selenium.WebDriver
+Install-Package Selenium.WebDriverBackedSelenium 
+Install-Package Selenium.Support 
+
+
+M2_HOME  E:\AutoTestKit\Maven\apache-maven-3.2.5
+
+
+330881199202105521
+
+http://download.eclipse.org/technology/m2e/releases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
